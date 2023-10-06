@@ -1,0 +1,21 @@
+    h1{color: hsl(0, 93%, 57%);
+    background-color:red;
+    text-align: justify;}
+    p{
+        color: blue;
+        font-size: medium;
+        font-weight: 700;
+        font-family: sans-serif;
+    }
+    img{
+        width: 100%;
+    }
+    .roton{
+        border: 7px solid #9effff;
+        border-radius: 30px;
+        border-color: #000000;
+        margin: 20px;
+        padding: 20px;
+        text-align: justify;
+    }
+
